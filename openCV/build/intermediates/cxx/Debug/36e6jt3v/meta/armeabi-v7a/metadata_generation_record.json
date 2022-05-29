@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -336349647
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1707068334
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1652550744
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1720953558
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1466468447
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 303855508
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1830399480
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\build\\intermediates\\cxx\\Debug\\36e6jt3v\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\build\\intermediates\\cxx\\Debug\\36e6jt3v\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1754993059
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Hritick Jha\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\build\\intermediates\\cxx\\Debug\\36e6jt3v\\obj\\armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\build\\intermediates\\cxx\\Debug\\36e6jt3v\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 503891100
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1597714366
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1778814698
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\.cxx\\Debug\\36e6jt3v\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1446645924
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Hritick Jha\\AndroidStudioProjects\\FaceAttendance\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 159258386
+  }
+]

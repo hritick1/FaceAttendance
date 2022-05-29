@@ -1,0 +1,1 @@
+C:\Users\Hritick Jha\AndroidStudioProjects\FaceAttendance\openCV\build\intermediates\cxx\Debug\36e6jt3v\obj\armeabi-v7a

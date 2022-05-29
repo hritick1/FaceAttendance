@@ -1,0 +1,1 @@
+C:\Users\Hritick Jha\AndroidStudioProjects\FaceAttendance\openCV\build\intermediates\cxx\RelWithDebInfo\bx5g66n5\obj\x86
